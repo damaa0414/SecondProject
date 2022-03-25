@@ -4,9 +4,9 @@ public class Hello {
 		System.out.println("login");
                 System.out.println("logoff");
 		System.out.println("logtwo");
-		System.out.println("what is Git?");
+		System.out.println("what is Git?")
+		System.out.println("That's DVCD");
 
 	}
-
 
 } 
