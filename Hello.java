@@ -5,6 +5,8 @@ public class Hello {
                 System.out.println("logoff");
 		System.out.println("logtwo");
 		System.out.println("that's DVCD");
+		System.out.pringln("My name");
+
 	}
 
 } 
